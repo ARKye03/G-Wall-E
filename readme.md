@@ -6,7 +6,7 @@
 
 ### Requirements
 
-- .Net 7.0
+- .Net 8.0
 - Git
 - Windows SDK for compiling
 
@@ -41,3 +41,5 @@
         ...
     } in \<expression>;
     ```
+
+[Mirror of](https://github.com/KevinSanchezFarias/Geo-Wall-E)
